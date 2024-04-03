@@ -13,9 +13,6 @@ Dieses Repository hat zwei Ordner für die Übungsdateien. Im Ordner `src´ find
 ## Nutzung
 
 1. Um diese Übungsdateien nutzen zu können, forken Sie bitte dieses Repository in Ihren persönlichen github Bereich. Dafür sehen Sie sich bitte das Einführungsvideo in GitHub dieses Kurses an. Eine englische github Dokumentation finden Sie unter diesem [Link](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
-2. Als nächstes öffnen Sie den github Codespace für Ihren persönlichen fork, wie im Einführungsvideo gezeigt. In diesem Codespace wurden bereits gängige Extensions hinzugefügt, wenn Sie andere zusätzlich nutzen möchten können Sie diese explizit in den Extensions suchen und installieren.
-3. Schließen und öffnen Sie den Codespace, damit die Extension richtig geladen wird.
-4. Danach können Sie mit den Übungsaufgaben beginnen.
 
 ### Autorin
 

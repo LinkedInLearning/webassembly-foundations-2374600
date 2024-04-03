@@ -1,0 +1,23 @@
+<html>
+<head>
+    <script src="app.js"></script>
+</head>
+</html>
+<body>
+    <div>
+        <h1>Fibonacci</h1>
+    </div>
+    <script>
+        Module.onRuntimeInitialized = () => {
+            const fibonacci = Module.cwrap(
+                'fibonacci',
+                'number',
+                ['number']
+            );
+
+            console.log("Das Ergebnis ist: " + fibonacci(undefined));
+            console.log("Das Ergebnis ist: " + fibonacci(null));
+            console.log("Das Ergebnis ist: " + fibonacci(4.4 ));
+        }
+    </script>
+</body>
