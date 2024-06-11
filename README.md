@@ -8,10 +8,6 @@ WebAssembly ist die nächste Generation des Web-Codes, der sowohl im Browser als
 
 Martina Kraus zeigt Ihnen die Möglichkeiten, existierenden Code speziell kompiliert in den Webbrowser zu laden, um komplexe Algorithmen und Berechnungen – wie sie etwa in der Bild- und Videoverarbeitung vorkommen – cross-plattform auf nahezu allen Endgeräten auszuführen.
 
-## Anleitung
-
-Dieses Repository hat zwei Ordner für die Übungsdateien. Im Ordner `src´ finden Sie die Ausgangsdateien und im Ordner ´loesungen´ sind beispielhaft die Lösungen zur Problemstellung aufgeführt.
-
 ## Nutzung
 
 1. Um diese Übungsdateien nutzen zu können, forken Sie bitte dieses Repository in Ihren persönlichen github Bereich. Dafür sehen Sie sich bitte das Einführungsvideo in GitHub dieses Kurses an. Eine englische github Dokumentation finden Sie unter diesem [Link](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
