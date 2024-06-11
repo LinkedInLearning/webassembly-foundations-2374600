@@ -4,7 +4,9 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs `WebAssembly - Grund
 
 ![COURSENAME][lil-thumbnail-url] 
 
-[COURSEDESCRIPTION]
+WebAssembly ist die nächste Generation des Web-Codes, der sowohl im Browser als auch auf dem Server neue Möglichkeiten eröffnet. Aber was genau ist WebAssembly und warum revolutioniert es die Entwicklung von Webanwendungen? Dieser LinkedIn-Learning-Kurs bietet Ihnen das nötige Wissen, um damit serverseitigen Code zu schreiben, der schneller läuft und sicherer ist.<br><br>
+
+Martina Kraus zeigt Ihnen die Möglichkeiten, existierenden Code speziell kompiliert in den Webbrowser zu laden, um komplexe Algorithmen und Berechnungen – wie sie etwa in der Bild- und Videoverarbeitung vorkommen – cross-plattform auf nahezu allen Endgeräten auszuführen.
 
 ## Anleitung
 
