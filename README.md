@@ -24,4 +24,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQE0QKK7dxgCjw/learning-public-crop_675_1200/0/1717586855867?e=2147483647&v=beta&t=5u6SMeLGpLY5qqxdhFD4-9Gmww4x1UTVP1vXh_w0SSk
